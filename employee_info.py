@@ -62,7 +62,7 @@ def display_main_menu():
 
     print("Q - Quit")
 
-    option = input("Enter selection =>")
+    option = input("Enter selection => ")
 
     if option == '1':
         display_all_records()
